@@ -67,11 +67,24 @@ for annee, path in election_files.items():
 # 🔀 Fusion
 df_final = pd.concat(df_all, ignore_index=True)
 
+# ✅ Typage explicite des colonnes principales
+df_final["code_departement"] = df_final["code_departement"].astype(str).str.zfill(2)
+df_final["annee"] = df_final["annee"].astype(int)
+df_final["tour"] = df_final["tour"].astype(int)
+
+for col in ["inscrits", "votants", "abstentions", "exprimes", "blancs_et_nuls"]:
+    if col in df_final.columns:
+        df_final[col] = pd.to_numeric(df_final[col], errors="coerce")
+
+for col in ["taux_participation", "taux_abstention", "taux_exprimes", "total_voix_candidats", "moyenne_voix_candidats", "ecart_voix_candidat_1_2"]:
+    if col in df_final.columns:
+        df_final[col] = pd.to_numeric(df_final[col], errors="coerce")
+
 # ✅ FILTRAGE : Départements d’Île-de-France uniquement
 idf_departements = ['75', '77', '78', '91', '92', '93', '94', '95']
-df_final["code_departement"] = df_final["code_departement"].astype(str).str.zfill(2)
 df_idf = df_final[df_final["code_departement"].isin(idf_departements)]
 
-# 💾 Export
-df_idf.to_csv("election_global_idf_filtre.csv", index=False)
-print("✅ Fichier exporté : election_global_idf_filtre.csv")
+# 💾 Export au format CSV dans le dossier output_data
+df_idf.to_csv("../output_data/election_global_idf_filtre.csv", index=False)
+
+print("✅ Fichier exporté : ../output_data/election_global_idf_filtre.csv")
