@@ -1,0 +1,113 @@
+annee,type_infraction,nombre_infractions,taux_pour_1000_hab,region
+2016, Homicides ,168.0,1.4, Île-de-France
+2016, Tentatives d'homicide ,148.0,1.2, Île-de-France
+2016, Coups et blessures volontaires (<15ans) ,2506.0,0.2, Île-de-France
+2016, Coups et blessures volontaires (≥15ans) ,32540.0,2.7, Île-de-France
+2016, Violences sexuelles ,5794.0,0.5, Île-de-France
+2016, Vols avec arme ,4390.0,0.4, Île-de-France
+2016, Vols sans violence contre des personnes ,142220.0,11.8, Île-de-France
+2016, Cambriolages de logements ,40223.0,, Île-de-France
+2016, Vols de véhicules automobiles ,33267.0,2.7, Île-de-France
+2016, Vols de deux-roues motorisés ,18967.0,1.6, Île-de-France
+2016, Vols dans ou sur les véhicules ,74106.0,6.2, Île-de-France
+2016, Destructions et dégradations volontaires ,53058.0,4.4, Île-de-France
+2016, Escroqueries et infractions assimilées ,42139.0,3.5, Île-de-France
+2016, Infractions liées aux stupéfiants ,58040.0,4.7, Île-de-France
+2017, Homicides ,166.0,1.3, Île-de-France
+2017, Tentatives d'homicide ,150.0,1.2, Île-de-France
+2017, Coups et blessures volontaires (<15ans) ,2696.0,0.2, Île-de-France
+2017, Coups et blessures volontaires (≥15ans) ,34654.0,2.8, Île-de-France
+2017, Violences sexuelles ,6283.0,0.5, Île-de-France
+2017, Vols avec arme ,4083.0,0.3, Île-de-France
+2017, Vols sans violence contre des personnes ,150841.0,12.3, Île-de-France
+2017, Cambriolages de logements ,43293.0,, Île-de-France
+2017, Vols de véhicules automobiles ,31115.0,2.5, Île-de-France
+2017, Vols de deux-roues motorisés ,18499.0,1.5, Île-de-France
+2017, Vols dans ou sur les véhicules ,71781.0,5.8, Île-de-France
+2017, Destructions et dégradations volontaires ,56254.0,4.6, Île-de-France
+2017, Escroqueries et infractions assimilées ,47135.0,3.8, Île-de-France
+2017, Infractions liées aux stupéfiants ,56822.0,4.6, Île-de-France
+2018, Homicides ,187.0,1.5, Île-de-France
+2018, Tentatives d'homicide ,175.0,1.4, Île-de-France
+2018, Coups et blessures volontaires (<15ans) ,2895.0,0.2, Île-de-France
+2018, Coups et blessures volontaires (≥15ans) ,38734.0,3.1, Île-de-France
+2018, Violences sexuelles ,6800.0,0.5, Île-de-France
+2018, Vols avec arme ,4016.0,0.3, Île-de-France
+2018, Vols sans violence contre des personnes ,158277.0,12.9, Île-de-France
+2018, Cambriolages de logements ,46470.0,, Île-de-France
+2018, Vols de véhicules automobiles ,29574.0,2.4, Île-de-France
+2018, Vols de deux-roues motorisés ,18831.0,1.5, Île-de-France
+2018, Vols dans ou sur les véhicules ,65482.0,5.3, Île-de-France
+2018, Destructions et dégradations volontaires ,58722.0,4.8, Île-de-France
+2018, Escroqueries et infractions assimilées ,50249.0,4.1, Île-de-France
+2018, Infractions liées aux stupéfiants ,60103.0,4.9, Île-de-France
+2019, Homicides ,204.0,1.6, Île-de-France
+2019, Tentatives d'homicide ,183.0,1.4, Île-de-France
+2019, Coups et blessures volontaires (<15ans) ,3071.0,0.2, Île-de-France
+2019, Coups et blessures volontaires (≥15ans) ,42303.0,3.3, Île-de-France
+2019, Violences sexuelles ,7242.0,0.6, Île-de-France
+2019, Vols avec arme ,4069.0,0.3, Île-de-France
+2019, Vols sans violence contre des personnes ,166986.0,13.6, Île-de-France
+2019, Cambriolages de logements ,44556.0,, Île-de-France
+2019, Vols de véhicules automobiles ,28468.0,2.3, Île-de-France
+2019, Vols de deux-roues motorisés ,18424.0,1.5, Île-de-France
+2019, Vols dans ou sur les véhicules ,62896.0,5.1, Île-de-France
+2019, Destructions et dégradations volontaires ,59876.0,4.9, Île-de-France
+2019, Escroqueries et infractions assimilées ,54059.0,4.4, Île-de-France
+2019, Infractions liées aux stupéfiants ,63665.0,5.2, Île-de-France
+2020, Homicides ,187.0,1.5, Île-de-France
+2020, Tentatives d'homicide ,187.0,1.5, Île-de-France
+2020, Coups et blessures volontaires (<15ans) ,2649.0,0.2, Île-de-France
+2020, Coups et blessures volontaires (≥15ans) ,36904.0,2.9, Île-de-France
+2020, Violences sexuelles ,6254.0,0.5, Île-de-France
+2020, Vols avec arme ,3097.0,0.2, Île-de-France
+2020, Vols sans violence contre des personnes ,103002.0,8.4, Île-de-France
+2020, Cambriolages de logements ,29406.0,, Île-de-France
+2020, Vols de véhicules automobiles ,23678.0,1.9, Île-de-France
+2020, Vols de deux-roues motorisés ,16299.0,1.3, Île-de-France
+2020, Vols dans ou sur les véhicules ,40349.0,3.3, Île-de-France
+2020, Destructions et dégradations volontaires ,47919.0,3.9, Île-de-France
+2020, Escroqueries et infractions assimilées ,56721.0,4.6, Île-de-France
+2020, Infractions liées aux stupéfiants ,55769.0,4.5, Île-de-France
+2021, Homicides ,193.0,1.5, Île-de-France
+2021, Tentatives d'homicide ,215.0,1.7, Île-de-France
+2021, Coups et blessures volontaires (<15ans) ,3082.0,0.2, Île-de-France
+2021, Coups et blessures volontaires (≥15ans) ,45977.0,3.7, Île-de-France
+2021, Violences sexuelles ,7607.0,0.6, Île-de-France
+2021, Vols avec arme ,3205.0,0.3, Île-de-France
+2021, Vols sans violence contre des personnes ,130281.0,10.4, Île-de-France
+2021, Cambriolages de logements ,30268.0,, Île-de-France
+2021, Vols de véhicules automobiles ,24665.0,2.0, Île-de-France
+2021, Vols de deux-roues motorisés ,16663.0,1.3, Île-de-France
+2021, Vols dans ou sur les véhicules ,46849.0,3.8, Île-de-France
+2021, Destructions et dégradations volontaires ,54506.0,4.4, Île-de-France
+2021, Escroqueries et infractions assimilées ,66578.0,5.3, Île-de-France
+2021, Infractions liées aux stupéfiants ,63557.0,5.2, Île-de-France
+2022, Homicides ,209.0,1.6, Île-de-France
+2022, Tentatives d'homicide ,254.0,2.0, Île-de-France
+2022, Coups et blessures volontaires (<15ans) ,3449.0,0.3, Île-de-France
+2022, Coups et blessures volontaires (≥15ans) ,49266.0,4.0, Île-de-France
+2022, Violences sexuelles ,8563.0,0.7, Île-de-France
+2022, Vols avec arme ,3440.0,0.3, Île-de-France
+2022, Vols sans violence contre des personnes ,160927.0,12.9, Île-de-France
+2022, Cambriolages de logements ,46520.0,, Île-de-France
+2022, Vols de véhicules automobiles ,26523.0,2.1, Île-de-France
+2022, Vols de deux-roues motorisés ,17365.0,1.4, Île-de-France
+2022, Vols dans ou sur les véhicules ,55489.0,4.5, Île-de-France
+2022, Destructions et dégradations volontaires ,60905.0,4.9, Île-de-France
+2022, Escroqueries et infractions assimilées ,71206.0,5.8, Île-de-France
+2022, Infractions liées aux stupéfiants ,66659.0,5.4, Île-de-France
+2023, Homicides ,,, Île-de-France
+2023, Coups et blessures volontaires (15+ ans) ,,, Île-de-France
+2023, Violences sexuelles ,,, Île-de-France
+2023, Vols avec arme ,,, Île-de-France
+2023, Vols violents sans arme (agressions) ,,, Île-de-France
+2023," Vols sans violence contre les personnes (pickpockets, etc.) ",,, Île-de-France
+2023, Cambriolages de logements ,,, Île-de-France
+2023, Vols de véhicules (automobiles ou deux-roues) ,,, Île-de-France
+2023, Vols dans les véhicules (objets) ,,, Île-de-France
+2023, Vols d’accessoires sur véhicules ,,, Île-de-France
+2023, Destructions et dégradations volontaires (vandalisme) ,,, Île-de-France
+2023, Infractions liées aux stupéfiants  usage ,,, Île-de-France
+2023, Infractions liées aux stupéfiants  trafic ,,, Île-de-France
+2023, Escroqueries et fraudes (principalement numériques) ,,, Île-de-France
